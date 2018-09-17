@@ -55,7 +55,6 @@ void formfill()
     char v[20],w[20],x[20];
     int y,z;
     int one,pass;
-
     printf("ENTER THE NAME OF THE MAJOR ACCOUNT HOLDER\n");
     gets(v);
     printf("ENTER THE TYPE OF ACCOUNT YOU WANT TO CREATE\n");
