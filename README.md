@@ -53,8 +53,8 @@ void main()
 void formfill()
 {
     char v[20],w[20],x[20];
-    int y,z;
-    int one,pass;
+    int y,z, one,pass;
+    
     printf("ENTER THE NAME OF THE MAJOR ACCOUNT HOLDER\n");
     gets(v);
     printf("ENTER THE TYPE OF ACCOUNT YOU WANT TO CREATE\n");
@@ -65,7 +65,7 @@ void formfill()
     scanf("%d",&y);
     printf("ENTER THE AMOUNT YOU WOULD LIKE TO DEPOSIT IN THE ACCOUNT\n");
     scanf("%d",&z);
-
+    
     printf("VERIFY YOUR FINAL DETAILS RELATED TO THE ACCOUNT\n");
     printf("NAME OF THE ACCOUNT HOLDER=%s \n",&v);
     printf("TYPE OF ACCOUNT=%s\n",&w);
