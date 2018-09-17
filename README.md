@@ -65,7 +65,7 @@ void formfill()
     printf("ENTER THE MOBILE NUMBER OF THE ACCOUNT HOLDER\n");
     scanf("%d",&y);
     printf("ENTER THE AMOUNT YOU WOULD LIKE TO DEPOSIT IN THE ACCOUNT\n");
-   scanf("%d",&z);
+    scanf("%d",&z);
 
     printf("VERIFY YOUR FINAL DETAILS RELATED TO THE ACCOUNT\n");
     printf("NAME OF THE ACCOUNT HOLDER=%s \n",&v);
