@@ -1,5 +1,4 @@
-# MINI-PROJECT
-DATA STRUCTURES MINI PROJECT BANKING
+//MINI PROJECT//
 
 #include<stdio.h>
 #include<stdlib.h>
